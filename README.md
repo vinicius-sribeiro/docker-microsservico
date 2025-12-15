@@ -1,4 +1,4 @@
-# Microsserviço (Cluster/Docker)
+# Microsserviço (Cluster/Docker Swarm)
 
 Um projeto baseado em um bootcamp da DIO.
 Denilson Bonatti, Instrutor - Digital Innovation One
