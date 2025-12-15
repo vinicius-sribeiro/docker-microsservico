@@ -1,0 +1,7 @@
+/var/lib/docker/volumes/php-A/_data *(rw,sync,subtree_check)
+
+# 1. Estamos apenas passando o volume que queremos compartilhar.
+# 2. * -> indica que compartilharemos com qualquer um, mas se deve especificar os IPS das máquinas.
+# 3. rw -> permitimos leitura e escrita.
+# 4. sync -> sincronizamos esse volumes entre as máquinas.
+# 5. subtree_check -> todas as subpasta seram checadas também.
