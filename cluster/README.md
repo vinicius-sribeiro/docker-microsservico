@@ -53,7 +53,7 @@ docker service create \
  webdevops/php-apache:alpine-php7
 ```
 
-Explicação do volume feita em [Criando Volume do App](php/README.md#criando-volume-do-app).
+Explicação do volume feita em [Criando Volume do App](/php/README.md#criando-volume-do-app).
 
 ## Replicando um volume dentro do cluster
 
@@ -70,7 +70,7 @@ sudo apt install -y nfs-server
 nano /etc/exports
 ```
 
-Use o arquivo [exports](cluster/exports) como exemplo.
+Use o arquivo [exports](./exports) como exemplo.
 
 ```bash
 exports -ar
@@ -88,4 +88,4 @@ mount -o v4 <ip_host>:<volume_path_host> <volume_path_node>
 
 # Continuação
 
-➡️ [Criando o Proxy](proxy/README.md#container-proxy)
+➡️ [Criando o Proxy](/proxy/README.md#container-proxy)
