@@ -65,4 +65,4 @@ O arquivo `Banco.sql` é apenas uma consulta de exemplo.
 
 # Continuação
 
-➡️ [Preparando o Container PHP](php/README.md)
+➡️ [Preparando o Container PHP](/php/README.md)
