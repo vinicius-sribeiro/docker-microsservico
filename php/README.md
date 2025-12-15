@@ -15,4 +15,4 @@ Passe o `index.php` para dentro do `app/_data`.
 
 # Continuação
 
-➡️ [Criando o Cluster](cluster/README.md)
+➡️ [Criando o Cluster](/cluster/README.md)
